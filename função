@@ -1,0 +1,13 @@
+//estudar e refazer a programação do portugol em py
+num1
+num2
+
+print("CALCULADORA DAS OPERAÇÕES BÁSICAS")
+print("menu de escolha:\n")
+print("1. soma")
+print("2. subtração")
+print("3. multiplição")
+print("4. divisão")
+print("5. resto da divisão")
+print("6. sair")
+
