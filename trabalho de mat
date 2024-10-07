@@ -14,4 +14,4 @@ rad = math.radians(ang)
 cosseno = math.cos(rad)
 
 # Imprime o resultado
-print(f'O cosseno do ângulo {ang} é {cosseno:.2f}')
+print(f'O cosseno do ângulo {ang} é {cosseno:.4f}')
